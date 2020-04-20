@@ -1,7 +1,7 @@
 # flask_app
 Hello World Flask App
 
-Useage
+Usage
 
 ```sh
 # Build docker image
